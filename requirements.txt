@@ -27,6 +27,5 @@ stack-data==0.6.2
 statsmodels==0.13.5
 streamlit==1.40.1
 torch==2.4.1
-werkzeug==2.2.2
 widgetsnbextension==4.0.3
 yfinance==0.1.94
